@@ -1,7 +1,7 @@
 {
   "name": "@orange-games/h5-cordova-starter",
   "author": "OrangeGames",
-  "title": "Html5 Cordova Starter project",
+  "title": "Html5 Cordova Starter Project",
   "version": "1.0.0",
   "description": "Base project for cordova, ",
   "repository": {
@@ -21,9 +21,5 @@
       "ios",
       "android"
     ]
-  },
-  "dependencies": {
-    "cordova-ios": "^4.5.5",
-    "cordova-android": "^7.1.4"
   }
 }
