@@ -27,7 +27,7 @@ Now to get started with the app itself, your first step will be to copy the foll
 * ./config.xml
 
 ### Merge package.json
-Next step is merging your existing (hopefully? :D) package.json with the one from this project. You can simply add then **devDependencies** and **cordova** properties to your package.json
+Next step is merging your existing (hopefully? :D) package.json with the one from this project. You can simply add the **devDependencies** and **cordova** properties to your package.json
 
 ### Adjust config.xml
 Next up is changing the copied config.xml, which will happen in the top of your config.
@@ -63,7 +63,7 @@ ale@NL0NTB032:/path/to/my/game$ cordova build
 
 F.A.Q.
 ------
-### Android Studio is compling about some license thing
+### Android Studio is complaining about some license thing
 In order to build apps, you will need to accept the license agreements of Android SDK components. In order to do this, there are a few ways. Try to see which one works for you.
 
 1) Locate your ANDROID_HOME path. (This is usually ~/Library/Android/sdk or ~/USER/Android/sdk or ~/USER/AppData/Local/Android/sdk) (sdk folder is your ANDROID_HOME).
