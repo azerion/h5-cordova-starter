@@ -1,12 +1,12 @@
 {
-  "name": "@orange-games/h5-cordova-starter",
-  "author": "OrangeGames",
+  "name": "@azerion/h5-cordova-starter",
+  "author": "Azerion",
   "title": "Html5 Cordova Starter Project",
   "version": "1.0.0",
   "description": "Base project for cordova, ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/orange-games/h5-cordova-starter"
+    "url": "https://github.com/azerion/h5-cordova-starter"
   },
   "devDependencies": {
     "cordova-android": "^7.1.4",
