@@ -105,6 +105,6 @@ ale@NL0NTB032:/path/to/my/game$ zipalign -v 4 ./platforms/android/app/build/outp
 
 Disclaimer
 ----------
-We at OrangeGames just love playing and creating awesome games. We aren't affiliated with Cordova. We just needed some awesome starter kit to jump-start our HTML5 apps. Feel free to use it for creating apps for your own awesome games!
+We at Azerion just love playing and creating awesome games. We aren't affiliated with Cordova. We just needed some awesome starter kit to jump-start our HTML5 apps. Feel free to use it for creating apps for your own awesome games!
 HTML5 Cordova Starter Project is distributed under the MIT license. All 3rd party libraries and components are distributed under their
 respective license terms.
