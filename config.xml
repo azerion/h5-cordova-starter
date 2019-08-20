@@ -6,8 +6,8 @@
     <description>
         Your awesome game description!
     </description>
-    <author email="fabrique@orangegames.com" href="https://orangegames.com/">
-        OrangeGames Productions B.V.
+    <author email="fabrique@azerion.com" href="https://azerion.com/">
+        Azerion Productions B.V.
     </author>
     <content src="index.html" />
     <icon src="res/icon.png" />
