@@ -80,11 +80,11 @@ ale@NL0NTB032:~$ ~/ANDROID_HOME/tools/bin/sdkmanager --licenses
 ale@NL0NTB032:~$ ~/ANDROID_HOME/tools/bin/sdkmanager "build-tools;26.0.1" "platforms;android-26"
 ```
 ### How do I force the orientation
-Good Question! In the config.xml you can find the following tag:
+Good Question! In the config.xml you can find the following tags:
 ```xml
-<preference name="Orientation" value="landscape" />
+<preference name="Orientation" value="" />
 ```
-Set the value to either **landscape** or **portrait** to get the orientation you want. If you want both available than set it to **all**
+By default we have configured it to work in landscape. If you want to force portrait you can use **portrait** as value. If you want to let it work in portrait and landscape, you can use **all**.
 
 ### How do I build / sign my (Android) app?
 
